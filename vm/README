@@ -1,0 +1,17 @@
+-- gp1f4a5.1 --
+
+El código php está en la carpeta ../codi 
+
+Iniciar maquina:
+    vagrant up
+
+Parar maquina:
+    vagrant halt
+
+Entrar en la maquina:
+    vagrant ssh
+
+Borrar la maquina:
+    vagrant destroy
+
+Para acceder a la aplicación en: http://localhost:8000/index.php
